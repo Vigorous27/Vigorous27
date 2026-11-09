@@ -12,7 +12,7 @@
 
 ---
 
-I'm a Computing Science student working toward a career in **cybersecurity**. I like understanding how systems work, where they can fail, and how to make them more dependable.
+I'm a 3rd Year Computing Science student working toward a career in **cybersecurity**. I like understanding how systems work, where they can fail, and how to make them more dependable.
 
 **🔎 Currently seeking cybersecurity or software development internship opportunities.**
 

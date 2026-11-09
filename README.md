@@ -65,7 +65,7 @@ Built with **React, FastAPI, and SQLite**, with AI-assisted mitigation guidance.
 ![AWS](https://img.shields.io/badge/%E2%98%81_AWS-20252B?style=flat&labelColor=20252B&color=FF9900)
 
 **Currently learning**  
-AWS architecture · Preparing for AWS SAA and CompTIA Security+
+AWS architecture · Preparing for AWS Solutions Architect Associate and CompTIA Security+
 
 ---
 

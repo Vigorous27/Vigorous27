@@ -16,7 +16,7 @@ I'm a Computing Science student working toward a career in **cybersecurity**. I 
 
 **🔎 Currently seeking cybersecurity or software development internship opportunities.**
 
-I'm also a **General Board Member (Executive) at CHADS**, the University of Alberta Cybersecurity Club, helping organize events, workshops, and student outreach.
+I'm also a **General Board Member (Executive) at UCSC**, the University of Alberta Cybersecurity Club, helping organize events, workshops, and student outreach.
 
 ```text
 lalith@github:~$ learning, building, thinking a few moves ahead.

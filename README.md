@@ -61,6 +61,7 @@ Built with **React, FastAPI, and SQLite**, with AI-assisted mitigation guidance.
 ![Scapy](https://img.shields.io/badge/%E2%86%94_Scapy-20252B?style=flat)
 ![Git](https://img.shields.io/badge/Git-20252B?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-20252B?style=flat&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/%E2%98%81_AWS-20252B?style=flat&labelColor=20252B&color=FF9900)
 
 **Currently learning**  
 AWS architecture · Preparing for AWS SAA and CompTIA Security+

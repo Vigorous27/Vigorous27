@@ -12,7 +12,7 @@
 
 ---
 
-I'm a 3rd Year Computing Science student working toward a career in **cybersecurity**. I like understanding how systems work, where they can fail, and how to make them more dependable.
+I'm a Computing Science student working toward a career in **cybersecurity**. I like understanding how systems work, where they can fail, and how to make them more dependable.
 
 **🔎 Currently seeking cybersecurity or software development internship opportunities.**
 
@@ -32,13 +32,38 @@ Built with **React, FastAPI, and SQLite**, with AI-assisted mitigation guidance.
 
 **Also built:** [AI Knowledge Assistant](https://github.com/Vigorous27/government-ai-knowledge-assistant) — answers questions from an organization's own documents using a locally hosted AI model.
 
-### Working with
+### Tech stack
 
-**Code:** Python · JavaScript · SQL  
-**Build:** React · FastAPI · SQLite · PostgreSQL  
-**Tools:** Linux · Git · Nmap · Kali Linux
+**Languages**  
+![Python](https://img.shields.io/badge/Python-20252B?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20252B?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20252B?style=flat&logo=typescript&logoColor=3178C6)
+![Kotlin](https://img.shields.io/badge/Kotlin-20252B?style=flat&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/%E2%98%95_Java-20252B?style=flat)
+![SQL](https://img.shields.io/badge/SQL-20252B?style=flat&logo=sqlite&logoColor=59B4E5)
+![HTML](https://img.shields.io/badge/HTML-20252B?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-20252B?style=flat&logo=css&logoColor=663399)
+![C](https://img.shields.io/badge/C-20252B?style=flat&logo=c&logoColor=A8B9CC)
 
-Currently preparing for **AWS Solutions Architect – Associate** and **CompTIA Security+**.
+**Development**  
+![React](https://img.shields.io/badge/React-20252B?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-20252B?style=flat&logo=fastapi&logoColor=009688)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20252B?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20252B?style=flat&logo=postgresql&logoColor=7BAACF)
+![SQLite](https://img.shields.io/badge/SQLite-20252B?style=flat&logo=sqlite&logoColor=59B4E5)
+![MCP](https://img.shields.io/badge/MCP-20252B?style=flat&logo=modelcontextprotocol&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-20252B?style=flat&logo=n8n&logoColor=EA4B71)
+
+**Security & tools**  
+![Linux](https://img.shields.io/badge/Linux-20252B?style=flat&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-20252B?style=flat&logo=kalilinux&logoColor=7CB2ED)
+![Nmap](https://img.shields.io/badge/%E2%97%89_Nmap-20252B?style=flat)
+![Scapy](https://img.shields.io/badge/%E2%86%94_Scapy-20252B?style=flat)
+![Git](https://img.shields.io/badge/Git-20252B?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-20252B?style=flat&logo=docker&logoColor=2496ED)
+
+**Currently learning**  
+AWS architecture · Preparing for AWS SAA and CompTIA Security+
 
 ---
 

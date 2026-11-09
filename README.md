@@ -55,6 +55,7 @@ Built with **React, FastAPI, and SQLite**, with AI-assisted mitigation guidance.
 ![n8n](https://img.shields.io/badge/n8n-20252B?style=flat&logo=n8n&logoColor=EA4B71)
 
 **Security & tools**  
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-20252B?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-20252B?style=flat&logo=linux&logoColor=FCC624)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-20252B?style=flat&logo=kalilinux&logoColor=7CB2ED)
 ![Nmap](https://img.shields.io/badge/%E2%97%89_Nmap-20252B?style=flat)

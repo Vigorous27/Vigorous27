@@ -61,7 +61,14 @@ Currently preparing for **AWS Solutions Architect – Associate** and **CompTIA 
 </details>
 
 <!-- Generated after the contribution-snake workflow completes its first run. -->
+<details>
+<summary>Contribution snake</summary>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vigorous27/Vigorous27/output/github-snake-dark.svg" />
   <img alt="Animated snake tracing my GitHub contributions" src="https://raw.githubusercontent.com/Vigorous27/Vigorous27/output/github-snake.svg" />
 </picture>
+
+</details>
